@@ -1,0 +1,17 @@
+﻿@model IEnumerable<CoreKitaplık.Models.Kitaplar>
+
+<table class="table table-bordered">
+    <tr>
+        <td>ID</td>
+        <td>AD</td>
+        <td>YAZAR</td>
+    </tr>
+    @foreach(var x in Model)
+    {
+        <tr>
+            <td>@x.ID</td>
+            <td>@x.KitapAd</td>
+            <td>@x.Yazar</td>
+        </tr>
+    }
+</table>

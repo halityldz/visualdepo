@@ -1,0 +1,246 @@
+c:\users\halit\source\repos\Travel\Travel\bin\Travel.dll.config
+c:\users\halit\source\repos\Travel\Travel\bin\Travel.dll
+c:\users\halit\source\repos\Travel\Travel\bin\Travel.pdb
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\csc.exe
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\csc.exe.config
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\csc.rsp
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\csi.exe
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\csi.exe.config
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\csi.rsp
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\Microsoft.Managed.Core.targets
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.AppContext.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.Collections.Immutable.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.Console.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.IO.Compression.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.IO.FileSystem.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.IO.Pipes.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.Security.AccessControl.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.Security.Claims.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.ValueTuple.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.Xml.XPath.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\vbc.exe
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\vbc.exe.config
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\vbc.rsp
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\VBCSCompiler.exe
+c:\users\halit\source\repos\Travel\Travel\bin\roslyn\VBCSCompiler.exe.config
+c:\users\halit\source\repos\Travel\Travel\bin\Antlr3.Runtime.dll
+c:\users\halit\source\repos\Travel\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\halit\source\repos\Travel\Travel\bin\Microsoft.Web.Infrastructure.dll
+c:\users\halit\source\repos\Travel\Travel\bin\Newtonsoft.Json.dll
+c:\users\halit\source\repos\Travel\Travel\bin\System.Web.Helpers.dll
+c:\users\halit\source\repos\Travel\Travel\bin\System.Web.Mvc.dll
+c:\users\halit\source\repos\Travel\Travel\bin\System.Web.Optimization.dll
+c:\users\halit\source\repos\Travel\Travel\bin\System.Web.Razor.dll
+c:\users\halit\source\repos\Travel\Travel\bin\System.Web.WebPages.Deployment.dll
+c:\users\halit\source\repos\Travel\Travel\bin\System.Web.WebPages.dll
+c:\users\halit\source\repos\Travel\Travel\bin\System.Web.WebPages.Razor.dll
+c:\users\halit\source\repos\Travel\Travel\bin\WebGrease.dll
+c:\users\halit\source\repos\Travel\Travel\bin\System.Web.Helpers.xml
+c:\users\halit\source\repos\Travel\Travel\bin\System.Web.Mvc.xml
+c:\users\halit\source\repos\Travel\Travel\bin\System.Web.Optimization.xml
+c:\users\halit\source\repos\Travel\Travel\bin\System.Web.Razor.xml
+c:\users\halit\source\repos\Travel\Travel\bin\System.Web.WebPages.xml
+c:\users\halit\source\repos\Travel\Travel\bin\System.Web.WebPages.Deployment.xml
+c:\users\halit\source\repos\Travel\Travel\bin\System.Web.WebPages.Razor.xml
+c:\users\halit\source\repos\Travel\Travel\bin\Newtonsoft.Json.xml
+c:\users\halit\source\repos\Travel\Travel\bin\Antlr3.Runtime.pdb
+c:\users\halit\source\repos\Travel\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\halit\source\repos\Travel\Travel\obj\Debug\Travel.csprojAssemblyReference.cache
+c:\users\halit\source\repos\Travel\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+c:\users\halit\source\repos\Travel\Travel\obj\Debug\Travel.csproj.CopyComplete
+c:\users\halit\source\repos\Travel\Travel\obj\Debug\Travel.dll
+c:\users\halit\source\repos\Travel\Travel\obj\Debug\Travel.pdb
+c:\users\halit\source\repos\Travel\Travel\bin\EntityFramework.dll
+c:\users\halit\source\repos\Travel\Travel\bin\EntityFramework.SqlServer.dll
+c:\users\halit\source\repos\Travel\Travel\bin\EntityFramework.xml
+c:\users\halit\source\repos\Travel\Travel\bin\EntityFramework.SqlServer.xml
+C:\Users\Halit\source\repos\Travel\Travel\obj\Debug\Travel.Migrations.firstDB.resources
+C:\Users\Halit\source\repos\Travel\Travel\obj\Debug\Travel.csproj.GenerateResource.cache
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\Travel.dll.config
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\Travel.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\Travel.pdb
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\csc.exe
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\csc.exe.config
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\csc.rsp
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\csi.exe
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\csi.exe.config
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\csi.rsp
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.AppContext.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.Console.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.Security.Claims.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\vbc.exe
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\vbc.exe.config
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\vbc.rsp
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\Antlr3.Runtime.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\EntityFramework.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\EntityFramework.SqlServer.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\Newtonsoft.Json.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\System.Web.Helpers.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\System.Web.Mvc.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\System.Web.Optimization.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\System.Web.Razor.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\System.Web.WebPages.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\System.Web.WebPages.Razor.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\WebGrease.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\EntityFramework.xml
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\EntityFramework.SqlServer.xml
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\System.Web.Helpers.xml
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\System.Web.Mvc.xml
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\System.Web.Optimization.xml
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\System.Web.Razor.xml
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\System.Web.WebPages.xml
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\System.Web.WebPages.Razor.xml
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\Newtonsoft.Json.xml
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\Antlr3.Runtime.pdb
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\obj\Debug\Travel.csproj.AssemblyReference.cache
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\obj\Debug\Travel.Migrations.firstDB.resources
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\obj\Debug\Travel.csproj.GenerateResource.cache
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\obj\Debug\Travel.dll
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\obj\Debug\Travel.pdb
+C:\Users\Halit\Desktop\visual2017 depo\Travel\Travel\obj\Debug\Travel.csproj.CopyComplete
+C:\visual2017 depo\Travel\Travel\bin\Travel.dll.config
+C:\visual2017 depo\Travel\Travel\bin\Travel.dll
+C:\visual2017 depo\Travel\Travel\bin\Travel.pdb
+C:\visual2017 depo\Travel\Travel\bin\roslyn\csc.exe
+C:\visual2017 depo\Travel\Travel\bin\roslyn\csc.exe.config
+C:\visual2017 depo\Travel\Travel\bin\roslyn\csc.rsp
+C:\visual2017 depo\Travel\Travel\bin\roslyn\csi.exe
+C:\visual2017 depo\Travel\Travel\bin\roslyn\csi.exe.config
+C:\visual2017 depo\Travel\Travel\bin\roslyn\csi.rsp
+C:\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\visual2017 depo\Travel\Travel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.AppContext.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.Collections.Immutable.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.Console.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.IO.Compression.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.IO.FileSystem.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.IO.Pipes.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.Reflection.Metadata.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.Security.AccessControl.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.Security.Claims.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.ValueTuple.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.Xml.XPath.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\visual2017 depo\Travel\Travel\bin\roslyn\vbc.exe
+C:\visual2017 depo\Travel\Travel\bin\roslyn\vbc.exe.config
+C:\visual2017 depo\Travel\Travel\bin\roslyn\vbc.rsp
+C:\visual2017 depo\Travel\Travel\bin\roslyn\VBCSCompiler.exe
+C:\visual2017 depo\Travel\Travel\bin\roslyn\VBCSCompiler.exe.config
+C:\visual2017 depo\Travel\Travel\bin\Antlr3.Runtime.dll
+C:\visual2017 depo\Travel\Travel\bin\EntityFramework.dll
+C:\visual2017 depo\Travel\Travel\bin\EntityFramework.SqlServer.dll
+C:\visual2017 depo\Travel\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\visual2017 depo\Travel\Travel\bin\Microsoft.Web.Infrastructure.dll
+C:\visual2017 depo\Travel\Travel\bin\Newtonsoft.Json.dll
+C:\visual2017 depo\Travel\Travel\bin\System.Web.Helpers.dll
+C:\visual2017 depo\Travel\Travel\bin\System.Web.Mvc.dll
+C:\visual2017 depo\Travel\Travel\bin\System.Web.Optimization.dll
+C:\visual2017 depo\Travel\Travel\bin\System.Web.Razor.dll
+C:\visual2017 depo\Travel\Travel\bin\System.Web.WebPages.Deployment.dll
+C:\visual2017 depo\Travel\Travel\bin\System.Web.WebPages.dll
+C:\visual2017 depo\Travel\Travel\bin\System.Web.WebPages.Razor.dll
+C:\visual2017 depo\Travel\Travel\bin\WebGrease.dll
+C:\visual2017 depo\Travel\Travel\bin\EntityFramework.xml
+C:\visual2017 depo\Travel\Travel\bin\EntityFramework.SqlServer.xml
+C:\visual2017 depo\Travel\Travel\bin\System.Web.Helpers.xml
+C:\visual2017 depo\Travel\Travel\bin\System.Web.Mvc.xml
+C:\visual2017 depo\Travel\Travel\bin\System.Web.Optimization.xml
+C:\visual2017 depo\Travel\Travel\bin\System.Web.Razor.xml
+C:\visual2017 depo\Travel\Travel\bin\System.Web.WebPages.xml
+C:\visual2017 depo\Travel\Travel\bin\System.Web.WebPages.Deployment.xml
+C:\visual2017 depo\Travel\Travel\bin\System.Web.WebPages.Razor.xml
+C:\visual2017 depo\Travel\Travel\bin\Newtonsoft.Json.xml
+C:\visual2017 depo\Travel\Travel\bin\Antlr3.Runtime.pdb
+C:\visual2017 depo\Travel\Travel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\visual2017 depo\Travel\Travel\obj\Debug\Travel.csproj.AssemblyReference.cache
+C:\visual2017 depo\Travel\Travel\obj\Debug\Travel.Migrations.firstDB.resources
+C:\visual2017 depo\Travel\Travel\obj\Debug\Travel.csproj.GenerateResource.cache
+C:\visual2017 depo\Travel\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+C:\visual2017 depo\Travel\Travel\obj\Debug\Travel.csproj.CopyComplete
+C:\visual2017 depo\Travel\Travel\obj\Debug\Travel.dll
+C:\visual2017 depo\Travel\Travel\obj\Debug\Travel.pdb

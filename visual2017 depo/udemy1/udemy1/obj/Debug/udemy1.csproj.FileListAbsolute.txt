@@ -1,0 +1,10 @@
+C:\Users\Halit\source\repos\udemy1\udemy1\bin\Debug\udemy1.exe.config
+C:\Users\Halit\source\repos\udemy1\udemy1\bin\Debug\udemy1.exe
+C:\Users\Halit\source\repos\udemy1\udemy1\bin\Debug\udemy1.pdb
+C:\Users\Halit\source\repos\udemy1\udemy1\obj\Debug\udemy1.csprojAssemblyReference.cache
+C:\Users\Halit\source\repos\udemy1\udemy1\obj\Debug\udemy1.Form1.resources
+C:\Users\Halit\source\repos\udemy1\udemy1\obj\Debug\udemy1.Properties.Resources.resources
+C:\Users\Halit\source\repos\udemy1\udemy1\obj\Debug\udemy1.csproj.GenerateResource.cache
+C:\Users\Halit\source\repos\udemy1\udemy1\obj\Debug\udemy1.csproj.CoreCompileInputs.cache
+C:\Users\Halit\source\repos\udemy1\udemy1\obj\Debug\udemy1.exe
+C:\Users\Halit\source\repos\udemy1\udemy1\obj\Debug\udemy1.pdb

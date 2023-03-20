@@ -1,0 +1,45 @@
+C:\Users\Halit\source\repos\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\CoreDepartmans.deps.json
+C:\Users\Halit\source\repos\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\CoreDepartmans.runtimeconfig.json
+C:\Users\Halit\source\repos\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\CoreDepartmans.runtimeconfig.dev.json
+C:\Users\Halit\source\repos\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\CoreDepartmans.dll
+C:\Users\Halit\source\repos\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.csprojAssemblyReference.cache
+C:\Users\Halit\source\repos\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.csproj.CoreCompileInputs.cache
+C:\Users\Halit\source\repos\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.AssemblyInfoInputs.cache
+C:\Users\Halit\source\repos\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.AssemblyInfo.cs
+C:\Users\Halit\source\repos\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\CoreDepartmans.pdb
+C:\Users\Halit\source\repos\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.dll
+C:\Users\Halit\source\repos\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.pdb
+C:\Users\Halit\Desktop\visual2017 depo\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Halit\Desktop\visual2017 depo\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Halit\Desktop\visual2017 depo\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Halit\Desktop\visual2017 depo\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\libman.json
+C:\Users\Halit\Desktop\visual2017 depo\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\CoreDepartmans.deps.json
+C:\Users\Halit\Desktop\visual2017 depo\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\CoreDepartmans.runtimeconfig.json
+C:\Users\Halit\Desktop\visual2017 depo\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\CoreDepartmans.runtimeconfig.dev.json
+C:\Users\Halit\Desktop\visual2017 depo\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\CoreDepartmans.dll
+C:\Users\Halit\Desktop\visual2017 depo\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\CoreDepartmans.pdb
+C:\Users\Halit\Desktop\visual2017 depo\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.csproj.AssemblyReference.cache
+C:\Users\Halit\Desktop\visual2017 depo\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halit\Desktop\visual2017 depo\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.AssemblyInfoInputs.cache
+C:\Users\Halit\Desktop\visual2017 depo\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.AssemblyInfo.cs
+C:\Users\Halit\Desktop\visual2017 depo\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.csproj.CoreCompileInputs.cache
+C:\Users\Halit\Desktop\visual2017 depo\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.dll
+C:\Users\Halit\Desktop\visual2017 depo\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.pdb
+C:\Users\Halit\Desktop\visual2017 depo\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.genruntimeconfig.cache
+C:\visual2017 depo\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\visual2017 depo\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\appsettings.json
+C:\visual2017 depo\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\visual2017 depo\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\libman.json
+C:\visual2017 depo\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\CoreDepartmans.deps.json
+C:\visual2017 depo\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\CoreDepartmans.runtimeconfig.json
+C:\visual2017 depo\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\CoreDepartmans.runtimeconfig.dev.json
+C:\visual2017 depo\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\CoreDepartmans.dll
+C:\visual2017 depo\CoreDepartmans\CoreDepartmans\bin\Debug\netcoreapp2.0\CoreDepartmans.pdb
+C:\visual2017 depo\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.csproj.AssemblyReference.cache
+C:\visual2017 depo\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual2017 depo\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.AssemblyInfoInputs.cache
+C:\visual2017 depo\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.AssemblyInfo.cs
+C:\visual2017 depo\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.csproj.CoreCompileInputs.cache
+C:\visual2017 depo\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.dll
+C:\visual2017 depo\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.pdb
+C:\visual2017 depo\CoreDepartmans\CoreDepartmans\obj\Debug\netcoreapp2.0\CoreDepartmans.genruntimeconfig.cache
